@@ -3,7 +3,7 @@ langchain-core
 langchain-community
 langchain-tavily
 wikipedia
-arxiv
+arxiv==1.4.8
 python-dotenv
 streamlit
 langserve
